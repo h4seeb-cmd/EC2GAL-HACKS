@@ -128,4 +128,8 @@ p{
    padding-bottom: 10px;
 }
 
-
+.team{
+   text-align: center;
+   background-color: #6E70AC;
+   color: white;
+}

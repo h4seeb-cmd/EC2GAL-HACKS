@@ -22,7 +22,7 @@
 <h2>1. What are some of the best practices for creating effective wire-frames in computer science? How do wire-frames help with the design process?</h2>
 <p>Best practice is to keep the frame concise and user-focused. Wireframes are good for planning out how the project will be layed out.</p>
 <h2>2. How does user testing play a role in the design of user interfaces and wire-frames in computer science? Can you provide an example of a project where user testing significantly impacted the final product design?</h2>
-p>User testing sorta validates the existing wire-frames and UIs, and if the testing invalidates one, we know it should be changed. One example where user testing greatly impacted final product design was my own Quiz Game. Without getting different people playing it and giving feedback, I would not be able to cathc lots of the bugs present.</p>
+<p>User testing sorta validates the existing wire-frames and UIs, and if the testing invalidates one, we know it should be changed. One example where user testing greatly impacted final product design was my own Quiz Game. Without getting different people playing it and giving feedback, I would not be able to cathc lots of the bugs present.</p>
 
 <hr>
 
@@ -33,9 +33,9 @@ p>User testing sorta validates the existing wire-frames and UIs, and if the test
 <h2>2. What are the benefits of using Bootstrap in web development compared to css?</h2>
 <p>We get to have cool, easy to use elements such as the carosel.</p>
 <h2>3. How can you include Bootstrap in YOUR website development?</h2>
-<p>ANSWER</p>
+<p>I can use Bootstrap to add elements like a carosel, and I can also use it for a quick solution for basic frontend.</p>
 <h2>4. What do selectors do? Explain one selector in your own words.</h2>
-<!--<p>ANSWER</p>-->
+<p> A selector a pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them. It selects what code gets styled.</p>
 
 <hr>
 
@@ -48,6 +48,12 @@ p>User testing sorta validates the existing wire-frames and UIs, and if the test
 <h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
 <p>HTML is where the text and webpage come from. Javascript is what brings the lifeless frontend to life. CSS is just there to make the pervious action look pretty.</p>
 
-
+<h1>SNAKE SELFIES :)</h1>
+<div id = "yess">
+    <a><img src ="images/selfie1.png"
+    width="200"
+    height="200"></a>
+    <a><img src ="images/selife2.png"   
+    width="200"
+    height="200"></a>
 </div>
-</body>
